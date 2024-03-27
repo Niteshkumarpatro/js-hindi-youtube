@@ -12,7 +12,7 @@ let isLoggedIn = true
 
 // number => 2 to power 53
 // bigint
-// strung => ""
+// string => ""
 // boolean => true/false
 // null => standalone value
 // undefined =>
