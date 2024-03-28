@@ -63,6 +63,7 @@ let num1,num2,num3
 
 num1 = num2= num3 = 2 + 2
  let gamecounter = 100
+gamecounter++;
 
 
 
