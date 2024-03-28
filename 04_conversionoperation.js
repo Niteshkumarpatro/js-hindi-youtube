@@ -6,7 +6,7 @@ let score = "nitesh"
 
 let valueInNumber = Number(score)
  // console.log(typeof valueInNumber);
- // console.log( valueInNumber);
+ // console.log(valueInNumber);
 
 // "33" => 33
 // "33abc" => NaN
@@ -56,14 +56,16 @@ let str2 = " nitesh";
 
 // console.log( (3+4) *5 % 3);
 
-console.log(+true);
-console.log(+"");
+// console.log(+true);
+// console.log(+"");
 
 let num1,num2,num3
 
 num1 = num2= num3 = 2 + 2
  let gamecounter = 100
-gamecounter++
+gamecounter++;
+console.log(gamecounter);
+
 
 
 
