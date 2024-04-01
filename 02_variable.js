@@ -1,11 +1,11 @@
-const account_Id= "1234567890"
-let account_Email= "niteshkumar@gmail.com"
-let account_Password= "122345"
+const accountId= "1234567890"
+let accountEmail= "niteshkumar@gmail.com"
+let accountPassword= "122345"
 accountcity = "kolkata"
-let account_state;
+let accountstate;
 
 // account_Email=1 {allowed to change let variables but not the const variables bcz this are constant}
-console.table({account_Id,account_Email,account_Password,accountcity,account_state})
+console.table({accountId,accountEmail,accountPassword,accountcity,accountstate})
 
 /*
 prefer not use var
