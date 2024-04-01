@@ -1,5 +1,5 @@
 const accountId= "1234567890"
-let accountEmail= "niteshkumar@gmail.com"
+let accountEmail= "nitesh@gmail.com"
 let accountPassword= "122345"
 accountcity = "kolkata"
 let accountstate;
