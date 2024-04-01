@@ -11,9 +11,9 @@ let userEmail;
 
 const Id = Symbol('123')
 const anotherId = Symbol('123')
-// console.log(Id === anotherId);
+ // console.log(Id === anotherId);
 
-const bigNumber = 123456778n
+const bigNumber = 2345n
 
 //reference (non primitive)
 
@@ -29,7 +29,7 @@ const myfunction = function(){
     console.log("hello world");
 }
 
-// console.log(typeof heros)
+ // console.log(typeof heros)
 
 
 
@@ -40,7 +40,7 @@ const myfunction = function(){
 //stack (primitive) , Heap (non - primitive)
 
 let myYoutubename = "nitesh"
-  let anothername = myYoutubename
+let anothername = myYoutubename
 
 anothername="kumar"
 console.log(myYoutubename);
