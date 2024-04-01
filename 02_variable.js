@@ -10,5 +10,5 @@ console.table({accountId,accountEmail,accountPassword,accountcity,accountstate})
 /*
 prefer not use var
 bcz of issue in block scope and functional scope
- */
+*/
 
