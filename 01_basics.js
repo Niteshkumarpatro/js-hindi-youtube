@@ -1,6 +1,6 @@
 
-console.log("FIRST DAY OF JAVASCRIPT" )
-console.log("FIRST DAY OF JAVASCRIPT" )
+console.log("HI TODAY IS MY FIRST DAY OF JAVASCRIPT" )
+console.log(" AND MY NAME IS NITESH KUMAR PATRO " )
 
 
 
