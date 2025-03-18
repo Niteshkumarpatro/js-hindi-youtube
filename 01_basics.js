@@ -1,8 +1,2 @@
-
-console.log("HI TODAY IS MY FIRST DAY OF JAVASCRIPT" )
-console.log(" AND MY NAME IS NITESH KUMAR PATRO " )
-
-
-
-
-
+console.log("HI TODAY IS MY FIRST DAY OF JAVASCRIPT")
+console.log("AND MY NAME IN NITESH KUMAR PATRO")
