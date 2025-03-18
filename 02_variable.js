@@ -1,14 +1,20 @@
-const accountId= "1234567890"
-let accountEmail= "nitesh@gmail.com"
-let accountPassword= "122345"
-accountcity = "kolkata"
-let accountstate;
+const accountId=144553
+let accountEmail="nitesh@gmail.com"
+var accountPassword="12345678"
+accountCity="west Bengal"
+let accountState;
 
-// account_Email=1 {allowed to change let variables but not the const variables bcz this are constant}
-console.table({accountId,accountEmail,accountPassword,accountcity,accountstate})
+// accountId=112 not allowed
+
+accountEmail="hgj.com"
+accountPassword="6725476"
+accountCity="orissa"
+
+console.log(accountEmail)
 
 /*
-prefer not use var
-bcz of issue in block scope and functional scope
+prefer not to use var
+because of issue in block scope and functional scope
 */
 
+console.table({accountId,accountEmail,accountPassword,accountCity,accountState})
