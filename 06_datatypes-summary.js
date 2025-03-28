@@ -1,58 +1,52 @@
-// primitive
+// Primitive
 
-// 7 types : String,Number,Boolean,Null,Undefined,Symbol,BigInt
+// 7 types :String,Number,Boolean,null,undefined,symbol,BingInt
 
-const score = 100
-const scorevalue = 100.3
+const score=100
+const scorevalue=100.3
 
-const isLoggedIn = false
-const outsidetemp = null
+const isloggedIn=false
+const outsidetemp=null
 let userEmail;
+const id=Symbol('123')
+const anotherId =Symbol('123')
 
-const Id = Symbol('123')
-const anotherId = Symbol('123')
- // console.log(Id === anotherId);
+//console.log(id===anotherId);
 
-const bigNumber = 2345n
+const bigNumber=234546475547n
 
-//reference (non primitive)
 
-// Array,Object,Functions
+// Reference(non primitive)
 
-const heros = ["shaktiman","bheem","doga"]
-let myobj ={
+// Array,objects,Functions
+
+
+const heros =["shaktiman","naagraj","doga"];
+let myObj={
     name:"nitesh",
-    age :20,
+    age:20,
 }
 
-const myfunction = function(){
+const myFunction=function() {
     console.log("hello world");
 }
 
- // console.log(typeof heros)
+console.log(typeof bignumber)
+console.log(typeof outsidetemp)
 
+// typeof datatype
 
+//  Primitive
+// Number => number
+// String => string
+// Boolean => boolean
+// null => object
+// undefined => undefined
+// symbol => symbol
+// bigint => bigint
+//
+// Non-Primitive
+// array => object
+// object => object
+// function => function
 
-
-
-//***********************************************************************************************************************
-
-//stack (primitive) , Heap (non - primitive)
-
-let myYoutubename = "nitesh"
-let anothername = myYoutubename
-
-anothername="kumar"
-console.log(myYoutubename);
- console.log(anothername);
-
- let userone ={
-     email :"user@.com",
-     upi:"nkp@h"
- }
- let usertwo = userone
-usertwo.email ="user2@.com",
-    usertwo.upi="kjl"
-
-console.log(userone);
-console.log(usertwo);
