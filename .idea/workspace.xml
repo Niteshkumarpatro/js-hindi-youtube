@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c6b5966-7284-41e6-ae13-000dc161de6e" name="Changes" comment="my first commit">
-      <change beforePath="$PROJECT_DIR$/first day.js" beforeDir="false" afterPath="$PROJECT_DIR$/first day.js" afterDir="false" />
+    <list default="true" id="0c6b5966-7284-41e6-ae13-000dc161de6e" name="Changes" comment="BASIC INTRODUCTION">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "Node.js.first day.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/User/WebstormProjects/js-hindi-youtube",
     "node.js.detected.package.eslint": "true",
@@ -53,6 +53,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\js-hindi-youtube" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\WebstormProjects\js-hindi-youtube" />
     </key>
   </component>
@@ -83,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705426987424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BASIC INTRODUCTION">
+      <option name="closed" value="true" />
+      <created>1743434435706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743434435706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first commit" />
+    <MESSAGE value="BASIC INTRODUCTION" />
+    <option name="LAST_COMMIT_MESSAGE" value="BASIC INTRODUCTION" />
   </component>
 </project>
